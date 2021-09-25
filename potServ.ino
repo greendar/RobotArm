@@ -1,7 +1,7 @@
 #include <Servo.h>        //Servo library
 
 // Potentiometer Controls a Servo
-// Added Link to Website
+// https://www.allaboutcircuits.com/projects/servo-motor-control-with-an-arduino/
 
  
  Servo servo_test;      //initialize a servo object for the connected servo  
